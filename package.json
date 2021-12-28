@@ -1,0 +1,23 @@
+{
+  "name": "stackblitz-nightwatch-chrome",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatfactor/stackblitz-nightwatch-chrome.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beatfactor/stackblitz-nightwatch-chrome/issues"
+  },
+  "homepage": "https://github.com/beatfactor/stackblitz-nightwatch-chrome#readme",
+  "dependencies": {
+    "geckodriver": "^3.0.1",
+    "nightwatch": "^2.0.0-beta.2"
+  }
+}
